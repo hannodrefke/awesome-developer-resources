@@ -12,6 +12,7 @@ this list is created and curated by [@hannodrefke](https://twitter.com/hannodref
 1.  [free courses](#1-free-courses)
      - [angular](#11-angular)
      - [javascript](#12-javascript)
+     - [react](#13-react)
 
 ---
 
@@ -32,6 +33,14 @@ list of free online courses or videos/playlists on different technologies
 | resource | description | links | tech |
 |----------|-------------|-------|------|
 | **[javascript30](https://javascript30.com/)** | 30 day vanilla js coding challenge. build 30 things in 30 days with 30 tutorials. no frameworks × no compilers × no libraries × no boilerplate | [website](https://javascript30.com/) [github](https://github.com/wesbos/JavaScript30) [twitter](https://twitter.com/wesbos) | javascript |
+
+[⬆ back to top](#awesome-developer-resources-computer)
+
+## 1.3 react
+
+| resource | description | links | tech |
+|----------|-------------|-------|------|
+| **[learnredux](https://learnredux.com/)** | a short 20 video / 2.5 hour course intended as a next steps for someone already comfortable with react. this is a start-to-finish course that will teach you react.js, redux and react router. | [website](https://learnredux.com/) [github](https://github.com/wesbos/Learn-Redux-Starter-Files) [twitter](https://twitter.com/wesbos) | react, redux |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
