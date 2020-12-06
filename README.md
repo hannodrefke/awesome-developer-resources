@@ -27,8 +27,8 @@ list of free online courses or videos/playlists on different technologies
 
 ## 1.1 angular
 
-resource | description | links | languages |
-|--|---- |---|---| ------ |
+| resource | description | links | tech |
+|----------|-------------|-------|------|
 | [introduction to angular](https://angulartraining.teachable.com/p/introduction-to-angular) | if you don't know anything about angular, this video is a perfect opportunity to learn all of the basics and get you started with the framework. | [website](https://angulartraining.teachable.com/p/introduction-to-angular) [github](https://github.com/alcfeoh) [twitter](https://twitter.com/alainchautard?lang=de) | angular, typescript |
 
 ---
