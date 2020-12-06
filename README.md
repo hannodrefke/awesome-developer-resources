@@ -25,7 +25,7 @@ list of free online courses or videos/playlists on different technologies
 |----------|-------------|-------|------|
 | **[introduction to angular](https://angulartraining.teachable.com/p/introduction-to-angular)** | if you don't know anything about angular, this video is a perfect opportunity to learn all of the basics and get you started with the framework. | [website](https://angulartraining.teachable.com/p/introduction-to-angular) [github](https://github.com/alcfeoh) [twitter](https://twitter.com/alainchautard) | angular, typescript |
 
-**[⬆ back to top](#table-of-contents-clipboard)**
+[⬆ back to top](#table-of-contents-clipboard)
 
 ## 1.2 javascript
 
@@ -33,7 +33,7 @@ list of free online courses or videos/playlists on different technologies
 |----------|-------------|-------|------|
 | **[javascript30](https://javascript30.com/)** | 30 day vanilla js coding challenge. build 30 things in 30 days with 30 tutorials. no frameworks × no compilers × no libraries × no boilerplate | [website](https://javascript30.com/) [github](https://github.com/wesbos/JavaScript30) [twitter](https://twitter.com/wesbos) | javascript |
 
-**[⬆ back to top](#table-of-contents-clipboard)**
+[⬆ back to top](#table-of-contents-clipboard)
 
 ---
 
