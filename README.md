@@ -9,18 +9,35 @@ this list is created and curated by [@hannodrefke](https://twitter.com/hannodref
 
 ## table of contents :clipboard:
 
-1.  [free courses](#1-free-courses)
-     - [angular](#11-angular)
-     - [javascript](#12-javascript)
-     - [react](#13-react)
+1.  [concepts](#1-concepts)
+     - [clean code](#11-clean-code)
+
+2.  [free courses](#2-free-courses)
+     - [angular](#21-angular)
+     - [javascript](#22-javascript)
+     - [react](#23-react)
 
 ---
 
-# 1. free courses
+# 1. concepts
+
+list of concepts
+
+## 1.1 clean code
+
+| resource | description | links | topic |
+|----------|-------------|-------|-------|
+| **[clean code developer](https://clean-code-developer.com/)** | an initiative for more professionalism in software development | [website](https://clean-code-developer.com/) [github](https://github.com/ccdschool/clean-code-developer-com) [twitter](https://twitter.com/ralfw) | clean code |
+
+[⬆ back to top](#awesome-developer-resources-computer)
+
+---
+
+# 2. free courses
 
 list of free online courses or videos/playlists on different technologies
 
-## 1.1 angular
+## 2.1 angular
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
@@ -28,7 +45,7 @@ list of free online courses or videos/playlists on different technologies
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
-## 1.2 javascript
+## 2.2 javascript
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
@@ -36,7 +53,7 @@ list of free online courses or videos/playlists on different technologies
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
-## 1.3 react
+## 2.3 react
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
