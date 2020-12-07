@@ -27,7 +27,7 @@ list of concepts
 
 | resource | description | links | topic |
 |----------|-------------|-------|-------|
-| **[clean code developer](https://clean-code-developer.com/)** | an initiative for more professionalism in software development | [website](https://clean-code-developer.com/) [github](https://github.com/ccdschool/clean-code-developer-com) [twitter](https://twitter.com/ralfw) | clean code |
+| **[clean code developer](https://clean-code-developer.com/)** | an initiative for more professionalism in software development | [website](https://clean-code-developer.com/) <br> [github](https://github.com/ccdschool/clean-code-developer-com) <br> [twitter](https://twitter.com/ralfw) | clean code |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
@@ -41,7 +41,7 @@ list of free online courses or videos/playlists on different technologies
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
-| **[introduction to angular](https://angulartraining.teachable.com/p/introduction-to-angular)** | if you don't know anything about angular, this video is a perfect opportunity to learn all of the basics and get you started with the framework. | [website](https://angulartraining.teachable.com/p/introduction-to-angular) [github](https://github.com/alcfeoh) [twitter](https://twitter.com/alainchautard) | angular, typescript |
+| **[introduction to angular](https://angulartraining.teachable.com/p/introduction-to-angular)** | if you don't know anything about angular, this video is a perfect opportunity to learn all of the basics and get you started with the framework. | [website](https://angulartraining.teachable.com/p/introduction-to-angular) <br> [github](https://github.com/alcfeoh) <br> [twitter](https://twitter.com/alainchautard) | angular, typescript |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
@@ -49,7 +49,7 @@ list of free online courses or videos/playlists on different technologies
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
-| **[javascript30](https://javascript30.com/)** | 30 day vanilla js coding challenge. build 30 things in 30 days with 30 tutorials. no frameworks × no compilers × no libraries × no boilerplate | [website](https://javascript30.com/) [github](https://github.com/wesbos/JavaScript30) [twitter](https://twitter.com/wesbos) | javascript |
+| **[javascript30](https://javascript30.com/)** | 30 day vanilla js coding challenge. build 30 things in 30 days with 30 tutorials. no frameworks × no compilers × no libraries × no boilerplate | [website](https://javascript30.com/) <br> [github](https://github.com/wesbos/JavaScript30) <br> [twitter](https://twitter.com/wesbos) | javascript |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
@@ -57,7 +57,7 @@ list of free online courses or videos/playlists on different technologies
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
-| **[learnredux](https://learnredux.com/)** | a short 20 video / 2.5 hour course intended as a next steps for someone already comfortable with react. this is a start-to-finish course that will teach you react.js, redux and react router. | [website](https://learnredux.com/) [github](https://github.com/wesbos/Learn-Redux-Starter-Files) [twitter](https://twitter.com/wesbos) | react, redux |
+| **[learnredux](https://learnredux.com/)** | a short 20 video / 2.5 hour course intended as a next steps for someone already comfortable with react. this is a start-to-finish course that will teach you react.js, redux and react router. | [website](https://learnredux.com/) <br> [github](https://github.com/wesbos/Learn-Redux-Starter-Files) <br> [twitter](https://twitter.com/wesbos) | react, redux |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
