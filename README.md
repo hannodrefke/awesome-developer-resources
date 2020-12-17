@@ -17,6 +17,8 @@ this list is created and curated by [@hannodrefke](https://twitter.com/hannodref
      - [javascript](#22-javascript)
      - [react](#23-react)
 
+3.  [state management](#3-state-management)
+
 ---
 
 # 1. concepts
@@ -49,7 +51,7 @@ list of free online courses or videos/playlists on different technologies
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
-| **[javascript30](https://javascript30.com/)** | 30 day vanilla js coding challenge. build 30 things in 30 days with 30 tutorials. no frameworks × no compilers × no libraries × no boilerplate | [website](https://javascript30.com/) <br> [github](https://github.com/wesbos/JavaScript30) <br> [twitter](https://twitter.com/wesbos) | javascript |
+| **[javascript30](https://javascript30.com)** | 30 day vanilla js coding challenge. build 30 things in 30 days with 30 tutorials. no frameworks × no compilers × no libraries × no boilerplate | [website](https://javascript30.com/) <br> [github](https://github.com/wesbos/JavaScript30) <br> [twitter](https://twitter.com/wesbos) | javascript |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
@@ -57,7 +59,18 @@ list of free online courses or videos/playlists on different technologies
 
 | resource | description | links | tech |
 |----------|-------------|-------|------|
-| **[learnredux](https://learnredux.com/)** | a short 20 video / 2.5 hour course intended as a next steps for someone already comfortable with react. this is a start-to-finish course that will teach you react.js, redux and react router. | [website](https://learnredux.com/) <br> [github](https://github.com/wesbos/Learn-Redux-Starter-Files) <br> [twitter](https://twitter.com/wesbos) | react, redux |
+| **[learnredux](https://learnredux.com)** | a short 20 video / 2.5 hour course intended as a next steps for someone already comfortable with react. this is a start-to-finish course that will teach you react.js, redux and react router. | [website](https://learnredux.com) <br> [github](https://github.com/wesbos/Learn-Redux-Starter-Files) <br> [twitter](https://twitter.com/wesbos) | react, redux |
+
+[⬆ back to top](#awesome-developer-resources-computer)
+
+---
+
+# 3. state management
+
+| resource | description | links | tech |
+|----------|-------------|-------|-------|
+| **[mobx](https://mobx.js.org)** | simple, scalable state management | [website](https://mobx.js.org) <br> [github](https://github.com/mobxjs/mobx) <br> [twitter](https://twitter.com/mweststrate) | javascript |
+| **[xstate](https://xstate.js.org)** | javaScript state machines and statecharts | [website](https://xstate.js.org) <br> [github](https://github.com/davidkpiano/xstate) <br> [twitter](https://twitter.com/DavidKPiano) | javascript |
 
 [⬆ back to top](#awesome-developer-resources-computer)
 
